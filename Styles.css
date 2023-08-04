@@ -6,13 +6,13 @@ h1{
   color: blue;
 }
 h2 {
-    color:blue;
-    font-weight: bold;
-    font-size: 45pt;
+  color:blue;
+  text-decoration: underline;
+  font-size: 45pt;
 }
 p{
-    text-align: center;
-    font-size: 45pt;
+    
+  font-size: 45pt;
 }
 img {
     border:4px purple solid;
